@@ -108,7 +108,6 @@
   <ItemGroup>
     <Compile Include="AsyncSocket.cs" />
     <Compile Include="BlockingCollection.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="CompletionPort.cs" />
     <Compile Include="CompletionStatus.cs" />
     <Compile Include="ConcurrentQueue.cs" />
